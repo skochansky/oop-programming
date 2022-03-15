@@ -1,1 +1,1 @@
-# programowanie-obiektowe
+# oop-programming
